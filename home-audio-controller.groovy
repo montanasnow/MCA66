@@ -16,7 +16,7 @@
 
 definition(
     name: "Home Audio Controller",
-    namespace: "steve28",
+    namespace: "montanasnow",
     author: "Steve Sell",
     description: "HTD MCA-66 Controller SmartApp",
     category: "My Apps",
